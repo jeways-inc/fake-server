@@ -10,11 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "user": {
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "doe@email.com",
-    "imageUrl": "photo"
   }
 }
