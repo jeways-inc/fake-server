@@ -4,5 +4,8 @@
     "lastName": "Doe",
     "email": "doe@email.com",
     "imageUrl": "photo"
+  },
+  "token": {
+    access_token: "jvnuevoer erpiorebvinrebnipeb obneriobneruvbrneouvbreobvnorebnreberbteb"
   }
 }
