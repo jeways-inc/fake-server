@@ -1,11 +1,13 @@
 {
-  "user": {
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "doe@email.com",
-    "imageUrl": "photo"
-  },
-  "token": {
-    "access_token": null
-  }
+  "users":  [
+    {
+      "id": 458,
+      "fullName": "John Doe",
+      "email": "john@email.com",
+      "photo": "bfrger6g46reb16rb61rebrb.png",
+      "role": "ROLE_USER",
+      "genre": "male",
+      "activate": true
+    }
+  ]
 }
